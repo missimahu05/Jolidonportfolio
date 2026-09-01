@@ -1,0 +1,71 @@
+     _ _ _____         _     
+    | | |_   _|__  ___| |__  
+ _  | | | | |/ _ \/ __| '_ \ 
+| |_| | | | |  __/ (__| | | |
+ \___/|_| |_|\___|\___|_| |_|
+
+        JjTech’s
+
+This humans.txt file highlights the creator,
+skills, and technologies behind this project.
+
+_______________________________________________________________________________
+
+CREATOR | CRÉATEUR
+
+HOUNGUE M. Jolidon  
+Web Developer & Digital Creator  
+
+Focused on building modern websites,
+creating impactful visuals and helping brands
+grow their online presence.
+
+_______________________________________________________________________________
+
+SKILLS | COMPÉTENCES
+
+Web Development:
+HTML / CSS / JavaScript  
+WordPress / PHP / Laravel  
+
+Design & Content:
+Figma  
+Photoshop  
+Canva  
+
+Video & Media:
+CapCut  
+Premiere Pro  
+
+_______________________________________________________________________________
+
+TECHNOLOGY | TECHNOLOGIES
+
+Frontend:
+HTML5 / CSS3 / JavaScript  
+
+Tools & Platforms:
+WordPress  
+Git / GitHub  
+
+_______________________________________________________________________________
+
+PROJECTS | PROJETS
+
+- Portfolio personnel  
+- Sites vitrines  
+- Création de visuels digitaux  
+- Gestion de contenus web  
+
+_______________________________________________________________________________
+
+CONTACT
+
+Email: jolidonhoungue30@gmail.com  
+Phone: +229 01 51 85 24 20  
+
+_______________________________________________________________________________
+
+PHILOSOPHY | VISION
+
+"Create simple, impactful and useful digital experiences."

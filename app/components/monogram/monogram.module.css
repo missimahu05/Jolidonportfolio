@@ -1,0 +1,39 @@
+@layer components {
+  .monogramContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    position: relative;
+  }
+
+  .logoImage {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transition: transform var(--durationM) ease;
+
+    :is(a:hover) & {
+      transform: scale(1.1);
+    }
+  }
+
+  .fallbackLogo {
+    width: 100%;
+    height: 100%;
+    background: var(--primary);
+    color: var(--background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 20px;
+    border-radius: 50%;
+  }
+
+  .monogram {
+    fill: var(--primary);
+    transition: fill var(--durationL) ease;
+  }
+}

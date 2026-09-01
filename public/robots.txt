@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jolidonhoungue.pages.dev/sitemap.xml
