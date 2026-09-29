@@ -1,58 +1,211 @@
 <p align="center">
-  <img src="/public/favicon.svg" width="50" alt="Logo" />
+  <img src="/public/favicon.svg" width="60" alt="JolidonHoungue Logo" />
 </p>
-<h1 align="center">Personal portfolio</h1>
 
-[![Site preview](/public/site-preview.png)](https://hamishw.com)
+<h1 align="center">JolidonHoungue — Personal Portfolio</h1>
 
-My design portfolio to showcase a few projects. Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://hamishw.com) or check out a live version of the [components storybook](https://storybook.hamishw.com).
+<p align="center">
+  <strong>Frontend Developer · UI/UX Designer</strong>
+</p>
 
-## Install & run
+<p align="center">
+  Building modern, interactive and user-focused digital experiences.
+</p>
 
-Make sure you have nodejs `19.9.0` or higher and npm `9.6.3` or higher installed. Install dependencies with:
+<p align="center">
+  <a href="https://jolidonhoungue.com">Live Portfolio</a>
+</p>
+
+---
+
+## About
+
+This repository contains my personal portfolio, designed to showcase my work, skills, projects and experience as a **Frontend Developer & UI/UX Designer**.
+
+I enjoy combining **clean interfaces, thoughtful UX and modern web technologies** to create websites and applications that are both visually engaging and functional.
+
+My interests include:
+
+* Frontend development
+* UI/UX design
+* Interactive web experiences
+* Web & mobile applications
+* APIs and backend integration
+* Creative animations and 3D experiences
+* Progressive Web Apps (PWA)
+
+---
+
+## Tech Stack
+
+### Frontend
+
+* React
+* Vue.js
+* Next.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Framer Motion
+* Three.js
+
+### Backend & Data
+
+* Node.js
+* Express.js
+* MongoDB
+* Firebase
+* REST APIs
+
+### Design
+
+* Figma
+* UI/UX Design
+* Responsive Design
+* Design Systems
+* Prototyping
+
+### Tools & Deployment
+
+* Git & GitHub
+* VS Code
+* Cloudflare Pages
+* Render
+* Vercel
+* Firebase
+
+---
+
+## Featured Projects
+
+Some of the projects presented in this portfolio include real-world websites and applications developed for organizations, businesses and personal projects.
+
+### Busola
+
+A modern NGO platform designed to improve digital communication and engagement with users.
+
+**Stack:** React · Node.js · Express · MongoDB · PWA
+
+### MPB
+
+A political organization platform with member management, authentication, administration and communication features.
+
+**Stack:** React · Node.js · Express · MongoDB
+
+### Shopora
+
+An e-commerce and back-office project focused on product management, administration and modern user interfaces.
+
+**Stack:** React · TypeScript · Firebase
+
+### Other Projects
+
+The portfolio also includes experiments and projects involving:
+
+* AI-powered interfaces
+* Interactive 3D websites
+* QR-based applications
+* E-commerce
+* Management applications
+* Landing pages
+* Portfolio websites
+* Automation workflows
+
+---
+
+## Development Philosophy
+
+I believe a good website should not only look good.
+
+It should be:
+
+**Useful → Fast → Responsive → Accessible → Maintainable**
+
+I focus on creating interfaces where **design and development work together**, rather than treating them as two separate steps.
+
+---
+
+## Getting Started
+
+### Requirements
+
+Make sure you have **Node.js** and **npm** installed.
+
+Clone the repository:
+
+```bash
+git clone https://github.com/joboy05/JolidonHoungue.git
+cd JolidonHoungue
+```
+
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-Once it's done start up a local server with:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-To view the components storybook:
+Then open the local URL displayed in your terminal.
+
+---
+
+## Build
+
+To create a production build:
 
 ```bash
-npm run dev:storybook
+npm run build
 ```
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+---
 
 ## Deployment
 
-I've set up the site using Cloudflare for hosting. Deploy the site to Cloudflare Pages:
+The portfolio can be deployed using modern hosting platforms such as **Cloudflare Pages, Vercel or Render**, depending on the project architecture.
 
-```bash
-npm run deploy
-```
+---
 
-## Permissions
+## Contact
 
-I'm cool with anyone using the code or parts of the code for their own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components it to make it your own. If you are using the site's design largely unmodified, I'd appreciate being credited as the designer of the website.
+If you'd like to collaborate on a project, build a website, create a UI/UX experience or discuss an idea, feel free to reach out.
 
-I do not give permission to present any of my projects as your own (this is being actively used as my portfolio site and these are my real projects I've worked on).
+**Jolidon HOUNGUE**
 
-## FAQs
+Frontend Developer & UI/UX Designer
 
-<details>
-  <summary>How do I change the color on the <code>DisplacementSphere</code> (blobby rotating thing in the background).</summary>
-  
-  You'll need to edit the fragment shader. [Check out this issue for more details](https://github.com/HamishMW/portfolio/issues/19#issuecomment-870996615).
-</details>
+* Portfolio: [JolidonHoungue](https://jolidonhoungue.pages.dev)
+* GitHub: [@joboy05](https://github.com/missimmahu05)
+* LinkedIn: [Jolidon Houngue](https://www.linkedin.com/)
 
-<details>
-  <summary>How do I get the contact form to work?</summary>
-  
-  To get the contact form working create an AWS account and set up SES (Simple Email service). Then plug in your details into `.dev.vars.example` and rename it to `.dev.vars`. You'll also need to add these as enviroment variables in the Cloudflare dashboard for it to work in production. Or if you don't mind sending through gmail use [nodemailer](https://nodemailer.com/) instead.
-</details>
-# JolidonHoungue
-# JolidonHoungue
+---
+
+## License
+
+This project is primarily intended to showcase my personal work and development skills.
+
+You are welcome to use ideas, techniques or parts of the implementation for learning purposes.
+
+However, please do not present my projects, designs or professional work as your own.
+
+---
+
+<p align="center">
+  Designed & developed by <strong>Jolidon HOUNGUE</strong>
+</p>
+
+<p align="center">
+  <i>Frontend · UI/UX · Creative Web Experiences</i>
+</p>
