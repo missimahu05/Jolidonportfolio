@@ -102,12 +102,10 @@ export function Intro({ id, sectionRef, scrollIndicatorHidden, ...rest }) {
                     UI/UX Designer
                   </span>
                 </span>
-                <div className={styles.row} data-status={status}>
-                  <span className={styles.description}>
-                    Je crée des interfaces web <span className={styles.highlight}>modernes</span>, rapides et sécurisées
-                  </span>
-                </div>
               </Heading>
+              <p className={styles.description} data-status={status}>
+                Je crée des interfaces web <span className={styles.highlight}>modernes</span>, rapides et sécurisées
+              </p>
               <div className={styles.buttonContainer} data-visible={visible}>
                 <RouterLink to="/#project-1" className={styles.ctaButton} onClick={handleScrollClick}>
                   Voir mes projets
