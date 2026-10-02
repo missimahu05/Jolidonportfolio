@@ -3,10 +3,13 @@ node_modules
 /.cache
 /build
 .env
+.env*
+.env.example
 
 .wrangler
 .dev.vars.example
 .dev.vars
+.dev.vars*
 public/draco
 storybook-static
 /dist
